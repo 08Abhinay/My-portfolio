@@ -1,1 +1,43 @@
-node_modules
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js / build output
+.next/
+out/
+!.out/.gitkeep
+out/*
+build/
+dist/
+.cache/
+
+# Environment
+.env
+.env.* 
+!.env.example
+
+# OS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs & coverage
+logs/
+*.log
+coverage/
+
+# Deployment / services
+.vercel/
+.now/
+.netlify/
+
+# Misc
+.eslintcache
+/.parcel-cache
+/*.tgz
+
+

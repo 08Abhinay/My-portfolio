@@ -19,18 +19,18 @@ export default function Publications() {
   const publications = [
     {
       title: "Overcoming Black-box Attack Inefficiency with Hybrid and Dynamic N-nary Algorithms",
-      venue: "ACL 2024 (Submitted)",
+      venue: "EMNLP 2025",
       description: "Novel approach to improve model robustness using score-based feedback for adversarial perturbations in NLP models.",
-      status: "Under Review",
+      status: "Published",
       tags: ["NLP", "Adversarial Attacks", "Model Robustness"],
       sourceCode: "https://github.com/08Abhinay",
       paper: "#"
     },
     {
       title: "Addressing Data Scarcity in Medical Imaging: A Hybrid IJEPA + Stable Diffusion + GAN Approach",
-      venue: "Master's Thesis (In Progress)",
+      venue: "Master's Thesis",
       description: "Hybrid pipeline combining IJEPA, Stable Diffusion, and GANs for realistic synthetic medical image generation to address data scarcity.",
-      status: "In Progress",
+      status: "Defended",
       tags: ["Computer Vision", "Medical Imaging", "GANs", "Diffusion Models"],
       sourceCode: "https://github.com/08Abhinay",
       paper: "#"
